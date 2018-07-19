@@ -1,4 +1,6 @@
 Conteúdo do arquivo criado no trabalho de 
 git
 
+linha 2
+
 
